@@ -1,0 +1,26 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    font-size: 25px;
+    font-family: cursive;
+    padding: 15px;
+    border-radius: 50px;
+    background-color: #80808096;
+    border: 5px solid white;
+    box-shadow: 5px 5px #0a0a0ac9;
+    cursor: pointer;
+    text-transform: uppercase;
+
+}
+button:hover{
+    padding: 25px;
+    box-shadow: -5px -5px #040404c9;
+    font-family: fantasy;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: ;
+}

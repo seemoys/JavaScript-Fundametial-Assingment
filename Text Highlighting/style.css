@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    word-spacing: 7px;
+    letter-spacing: 1px;
+}
+h1{
+    text-align: center;
+}
+p{
+    padding: 25px 25px 5px 25px;
+}
